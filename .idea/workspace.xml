@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d9eba09-5fff-4faa-b340-08b47eeb8cf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3SK-202330648.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/commands.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/config/dir--sites-available.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/config/dir--sites-enabled.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/config/flie--php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/config/infos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/config/ps--wp-phpMyAdmin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/phpBB/db--phpBB-deepweb_com.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/phpBB/dir--phpBB-deepweb.com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/phpBB/file--phpBB-config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/phpBB/file--phpBB-deepweb.com.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/phpBB/ps--phpBB-index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/phpBB/ps--wp-phpMyAdmin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/wordpress/db--wp-deepweb_com.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/wordpress/dir--wp-deepweb.com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/wordpress/file--wp-deepweb.com.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/wordpress/ps--wp-Theme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/wordpress/ps--wp-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/wordpress/ps--wp-index.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="33HXkIV68D3BfuQ6wyPqheOh9Ma" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/202330648/automne2025/serveur internet1/3SK-202330648/TP1/phpBB",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\202330648\automne2025\serveur internet1\3SK-202330648\TP1\phpBB" />
+      <recent name="C:\Users\202330648\automne2025\serveur internet1\3SK-202330648\TP1\wordpress" />
+      <recent name="C:\Users\202330648\automne2025\serveur internet1\3SK-202330648\TP1\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\202330648\automne2025\serveur internet1\3SK-202330648\TP1\phpBB" />
+      <recent name="C:\Users\202330648\automne2025\serveur internet1\3SK-202330648\TP1\wordpress" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9eba09-5fff-4faa-b340-08b47eeb8cf8" name="Changes" comment="" />
+      <created>1758975115644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758975115644</updated>
+    </task>
+    <servers />
+  </component>
+</project>
