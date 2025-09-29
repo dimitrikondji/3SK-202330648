@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d9eba09-5fff-4faa-b340-08b47eeb8cf8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP1/config/infos.md" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/config/infos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP1/phpBB/-phpBB-procedure.md" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/phpBB/-phpBB-procedure.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP1/wordpress/-wp-procrdure.md" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/wordpress/-wp-procrdure.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
