@@ -9,9 +9,9 @@
 
 ## Noms d’usagers et mots de passe
 - MySQL :
-    - Utilisateur : `wp_user` → mot de passe : `********`
-    - Utilisateur : `phpbb_user` → mot de passe : `********`
+    - Utilisateur : `deepweb` → mot de passe : `test`
+    - Utilisateur : `forum.deepweb.com` → mot de passe : `test`
 - WordPress :
-    - Admin : `wpadmin` → mot de passe : `********`
+    - Admin : `admin` → mot de passe : `test`
 - phpBB :
-    - Admin : `phpbbadmin` → mot de passe : `********`
+    - Admin : `admin` → mot de passe : `test`

@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9eba09-5fff-4faa-b340-08b47eeb8cf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3SK-202330648.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/commands.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/config/dir--sites-available.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/config/dir--sites-enabled.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/config/flie--php.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/config/infos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/config/ps--wp-phpMyAdmin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/phpBB/db--phpBB-deepweb_com.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/phpBB/dir--phpBB-deepweb.com" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/phpBB/file--phpBB-config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/phpBB/file--phpBB-deepweb.com.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/phpBB/ps--phpBB-index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/phpBB/ps--wp-phpMyAdmin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/wordpress/db--wp-deepweb_com.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/wordpress/dir--wp-deepweb.com" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/wordpress/file--wp-deepweb.com.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/wordpress/ps--wp-Theme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/wordpress/ps--wp-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1/wordpress/ps--wp-index.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/config/infos.md" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/config/infos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/phpBB/-phpBB-procedure.md" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/phpBB/-phpBB-procedure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP1/wordpress/-wp-procrdure.md" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/wordpress/-wp-procrdure.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
