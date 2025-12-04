@@ -1,0 +1,14 @@
+$ORIGIN 6.168.192.in-addr.arpa.
+$TTL    86400
+@       IN      SOA     tp2primaire.202330648.lan. root.202330648.lan. (
+                        20221018        ; Serial
+                        604800          ; Refresh
+                        86400           ; Retry
+                        2419200         ; Expire
+                        604800 )        ; Negative Cache TTL
+;
+@       IN      NS      tp2primaire.202330648.lan.
+@       IN      NS      tp2secondaire.202330648.lan.
+101     IN      PTR     tp2secondaire.202330648.lan.
+100       IN      PTR   tp2primaire.202330648.lan.
+42      IN      PTR     tp2minecraft.202330648.lan.

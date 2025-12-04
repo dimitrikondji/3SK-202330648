@@ -1,0 +1,14 @@
+zone "202330648.lan" IN {
+    type master;
+    file "/etc/bind/db.202330648.lan";
+    notify yes;
+    allow-transfer { 192.168.6.101; };
+};
+
+zone "6.168.192.in-addr.arpa" {
+    type master;
+    file "/etc/bind/db.6.168.192";
+    notify yes;
+    allow-transfer { 192.168.6.101; };
+};
+

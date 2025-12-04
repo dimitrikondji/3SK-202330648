@@ -1,0 +1,20 @@
+$ORIGIN 202330648.lan.
+$TTL    604800
+@       IN      SOA     tp2primaire. root.tp2primaire. (
+                        20251017        ; Serial
+                        604800          ; Refresh
+                        86400           ; Retry
+                        2419200         ; Expire
+                        604800 )        ; Negative Cache TTL
+;
+; Serveurs de noms
+@               IN      NS      tp2primaire.
+@               IN      NS      tp2secondaire.
+
+; Enregistrements A
+tp2primaire     IN      A       192.168.6.100
+tp2secondaire   IN      A       192.168.6.101
+tp2minecraft    IN      A       192.168.6.42
+
+; Alias principal pour tp2
+tp2             IN      A       192.168.6.42

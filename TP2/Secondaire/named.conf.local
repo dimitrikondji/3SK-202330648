@@ -1,0 +1,11 @@
+zone "202330648.lan" {
+    type slave;
+    file "/var/cache/bind/db.202330648.lan";
+    masters { 192.168.6.100; };
+};
+
+zone "6.168.192.in-addr.arpa" {
+    type slave;
+    file "/var/cache/bind/db.6.168.192";
+    masters { 192.168.6.100; };
+};
