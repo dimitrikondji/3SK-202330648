@@ -1,0 +1,47 @@
+version: "3.8"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: bookstack_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_USER: ${DB_USERNAME}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - bookstack_net
+
+  bookstack:
+    image: lscr.io/linuxserver/bookstack
+    container_name: bookstack
+    restart: unless-stopped
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - APP_KEY=base64:HMf69AO2BhRyafYqaBDtZJpwlRUzbHX8X3SpIGK5GUg=
+      - APP_URL=${APP_URL}
+      - DB_HOST=mysql
+      - DB_DATABASE=${DB_DATABASE}
+      - DB_USERNAME=${DB_USERNAME}
+      - DB_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - bookstack_data:/config
+    depends_on:
+      - mysql
+    networks:
+      - bookstack_net
+
+  nginx:
+    image: nginx:latest
+    container_name: bookstack_nginx
+    restart: unless-stopped
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    ports:
+      - "80:80"
+    depends_on:
+      - bookstack

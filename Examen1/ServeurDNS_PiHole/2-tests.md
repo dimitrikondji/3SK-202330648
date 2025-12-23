@@ -4,7 +4,9 @@
 ```bash
 nslookup hohoho.202330648.lan 192.168.16.5
 ```
+### Résultat obtenu
 
+![Test du statut  Pi-hole](img_tests_dns/pihole_status.png)
 Résultat attendu :
 - Nom : hohoho.202330648.lan
 - Adresse : 192.168.16.10

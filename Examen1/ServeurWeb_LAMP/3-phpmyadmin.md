@@ -18,3 +18,6 @@ de protéger l’administration des bases de données contre les accès non auto
 
 ## Validation
 La base est accessible et administrable via phpMyAdmin sans erreur.
+
+![Test](phpWp.png)
+![Test](priviWp.png)

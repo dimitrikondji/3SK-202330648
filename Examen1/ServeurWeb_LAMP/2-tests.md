@@ -16,3 +16,7 @@ Accès réussi au site via l’adresse :
 http://hohoho.202330648.lan
 
 La page WordPress s’affiche correctement.
+
+### Résultat obtenu
+![Test](testlamp1.png)
+![Test](testlamp2.png)
